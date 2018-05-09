@@ -1,0 +1,22 @@
+{
+  "name": "help_service",
+  "version": "1.0.0",
+  "description": "Help_Service web app for CMSC 126",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rocelle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "firebase": "^5.0.1",
+    "hbs": "~4.0.1",
+    "materialize-css": "^1.0.0-rc.1",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  }
+}

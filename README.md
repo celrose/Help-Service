@@ -11,4 +11,6 @@ Make sure to also have [express JS] (https://expressjs.com/en/starter/installing
 npm install express --save
 ```
 Entry point of the project is index.js
-
+```
+node index.js
+```

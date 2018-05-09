@@ -2,7 +2,7 @@
 ## CMSC 126 - Web Engineering Project
 ### AY: 2017-2018 2nd Semester
 
-To run the project make sure to have [node.js] (http://blog.teamtreehouse.com/install-node-js-npm-windows) installed on your device. To check if you have node installed, open CMD and type:
+To run the project make sure to have [node.js] (https://nodejs.org/en/download/) installed on your device. To check if you have node installed, open CMD and type:
 ```
 node -v
 ```
